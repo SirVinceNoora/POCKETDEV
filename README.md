@@ -1,4 +1,20 @@
 <p align="center">
+  <h1>POCKETDEV</h1>
+</p>
+
+<p align="center">
+  <strong>Mobile Developer Companion</strong>
+</p>
+
+<p align="center">
+  <a href="https://pocket-dev-code.base44.app" target="_blank">
+    https://pocket-dev-code.base44.app
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-111111?style=for-the-badge" />
+</p>
+<p align="center">
   <a href="https://pocket-dev-code.base44.app" target="_blank">
     <img src="https://img.shields.io/badge/OPEN%20APP-CLICK%20HERE-000000?style=for-the-badge" />
   </a>
