@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>POCKETDEV</h1>
+  <h1>POCKETDEV v33.1</h1>
 </p>
 
 <p align="center">
